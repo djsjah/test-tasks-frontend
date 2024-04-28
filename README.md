@@ -37,7 +37,7 @@
 
    **-Первый вариант - оператор \*\*: использование оператора \*\* не считается как использование математических функций:** 
 
-   **-Файл isSquare.option.first.js from ./js/fourthTask/isSquare.option.first** 
+   **-Файл isSquare.option.first.js from ./js/fourthTask/isSquare.option.first.js** 
 
    ```
    const digit1 = 25;
@@ -84,7 +84,7 @@
 
    **-Второй вариант - реализация метода Ньютона для x^(2) - n = 0: использование оператора ** считается как использование математических функций (все-таки операторы, так скажем, "под копотом" - это такие же функции):** 
 
-   **-Файл isSquare.option.second.js from ./js/fourthTask/isSquare.option.second** 
+   **-Файл isSquare.option.second.js from ./js/fourthTask/isSquare.option.second.js** 
       
    ```
    const digit1 = 25;
@@ -132,7 +132,7 @@
 
    **-Третий вариант - бинарный поиск: прошлые два варианта не подходят:** 
 
-   **-Файл isSquare.option.third.js from ./js/fourthTask/isSquare.option.third** 
+   **-Файл isSquare.option.third.js from ./js/fourthTask/isSquare.option.third.js** 
     
    ```
    const digit1 = 9;
